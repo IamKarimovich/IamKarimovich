@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IamKarimovich
 - 👀 I’m interested in Java and Java and also Java
 - 🌱 I’m currently learning react for some projects
-- 💞️ I’m looking to collaborate on who has moustache))
 - 📫 How to reach me ruslankarimovinfo@gamil.com 
 
 <!---
